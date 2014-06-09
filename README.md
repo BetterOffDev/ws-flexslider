@@ -11,3 +11,8 @@ Example of how to include in template file:
 
 
 And that's it....
+
+
+
+*****NOTE******
+This is a pretty old plugin. Originally developed around 2010-2011?
